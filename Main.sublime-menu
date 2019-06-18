@@ -1,0 +1,13 @@
+[
+{
+    "id" : "Glaive",
+    "caption" : "Glaive",
+    "children":
+	[
+	{
+		"caption" : "Format Changelog",
+		"command" : "example"
+	}
+	]
+}
+]
